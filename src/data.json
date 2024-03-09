@@ -1,0 +1,47 @@
+[
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/account_lldcyu.png",
+    "name:"Accounting",
+    course:"course 15"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/biology_jnzbms.png",
+    name:"App Dev",
+    course:"course 10"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/photography_r8lzyd.png",
+    name:"Biology",
+    course:"course 12"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/marketing_vmsl4x.png",
+    name:"Marketing",
+    course:"course 13"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/phone_bnwdvl.png",
+    name:"Photography",
+    course:"course 6"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/biology_jnzbms.png",
+    name:"Science",
+    course:"course 7"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/biology_jnzbms.png",
+    name:"Science",
+    course:"course 7"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/biology_jnzbms.png",
+    name:"Science",
+    course:"course 7"
+  },
+    {
+    image:"https://res.cloudinary.com/dumfswc0u/image/upload/v1709921721/biology_jnzbms.png",
+    name:"Science",
+    course:"course 7"
+  }
+  ]
